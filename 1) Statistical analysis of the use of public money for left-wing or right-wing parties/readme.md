@@ -44,7 +44,7 @@ To carry out the data collection (as I did not have any faster methods available
 After preparing the data, therefore, I analysed the trands of each investment category by comparing left and right (example below)
 
 
-FOTO
+
 ![education](https://github.com/an-tr/github-portfolio/assets/140265380/eca95ee0-6d34-4802-a0bc-c01ba6fd9f53)
 
 and finally I carried out the analysis to highlight in which categories there are significant differences in how the left and right invest in the governed territory.
