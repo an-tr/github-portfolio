@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+#Portfolio
 ## Projects
 ### Project 1) Simulation of neuro-controller applied to an inverse pendulum
 the project carried out in MATLAB aims to balance the famous inverse pendulum problem through the use of a multilayer artificial neural network in a numerical simulation
