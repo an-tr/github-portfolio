@@ -52,4 +52,5 @@ The project showed that the categories where the right and left differ are admin
 in the other categories there are no statistical differences in the use of public money
 
 
-![statistical difference between right and left in italy](https://github.com/an-tr/github-portfolio/assets/140265380/746f40bf-35e5-4279-a69e-a1d36e57ae0b)
+
+![statistical difference between right and left in italy](https://github.com/an-tr/github-portfolio/assets/140265380/1cc11f48-7795-4c57-9802-917009434fa0)
