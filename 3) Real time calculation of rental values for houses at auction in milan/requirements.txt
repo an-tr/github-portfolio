@@ -1,0 +1,12 @@
+beautifulsoup4
+lxml
+requests
+pandas
+numpy
+keras
+tensorflow
+scikit-learn
+category_encoders
+xgboost
+seaborn
+matplotlib
